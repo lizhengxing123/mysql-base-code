@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/dcl-code/dcl-user.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/ddl-code/ddl-database.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/ddl-code/ddl-table.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dml-code/dml.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dql-code/dql-base.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dql-code/dql-group.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dql-code/dql-limit.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dql-code/dql-order.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dql-code/dql-practice.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/dql-code/dql-where.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/constraint/base.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/func/date-func.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/func/flow-func.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/func/number-func.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/func/string-func.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/dcl-code/dcl-user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/ddl-code/ddl-database.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/ddl-code/ddl-table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/dml-code/dml.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/dql-code/dql-base.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/dql-code/dql-group.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/dql-code/dql-limit.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/dql-code/dql-order.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/dql-code/dql-practice.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/dql-code/dql-where.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
