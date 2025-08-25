@@ -2,10 +2,15 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/constraint/base.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/engine/base.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/func/date-func.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/func/flow-func.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/func/number-func.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/func/string-func.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/index/base.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/index/index-Optimize.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/index/index-syntax.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/index/index-use.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/multi-table-query/child-query.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/multi-table-query/in-connection.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/multi-table-query/out-connection.sql" dialect="MySQL" />
@@ -22,6 +27,7 @@
     <file url="file://$PROJECT_DIR$/sql/dql-code/dql-order.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sql/dql-code/dql-practice.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sql/dql-code/dql-where.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/transaction/base.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
