@@ -17,6 +17,18 @@
     <file url="file://$PROJECT_DIR$/multi-table-query/practice.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/multi-table-query/self-connection.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/multi-table-query/union-query.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/args.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/base.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/case.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/cursor.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/func.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/if.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/loop.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/repeat.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/variables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedure/while.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-optimize/insert-optimize.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-optimize/limit-optimize.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sql/dcl-code/dcl-user.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sql/ddl-code/ddl-database.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sql/ddl-code/ddl-table.sql" dialect="MySQL" />
@@ -28,6 +40,7 @@
     <file url="file://$PROJECT_DIR$/sql/dql-code/dql-practice.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sql/dql-code/dql-where.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/transaction/base.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/view/base.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
