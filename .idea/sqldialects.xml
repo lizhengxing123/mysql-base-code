@@ -3,6 +3,8 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/constraint/base.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/engine/base.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/engine/innodb-framework.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/engine/mvcc.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/func/date-func.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/func/flow-func.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/func/number-func.sql" dialect="MySQL" />
