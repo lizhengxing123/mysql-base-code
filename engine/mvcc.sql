@@ -61,3 +61,6 @@ show tables like '%lock%';
     -- 预分配事务 id，当前最大事务 id+1（事务 id 是自增的）
 -- 3.4 creator_trx_id
     -- readView 创建者的事务 id
+
+# mysql 信任的文件目录
+show variables like '%secure_file_priv%';

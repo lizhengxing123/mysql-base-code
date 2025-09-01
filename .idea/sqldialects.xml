@@ -17,6 +17,10 @@
     <file url="file://$PROJECT_DIR$/lock/intention-lock.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/lock/meta-data-lock.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/lock/table-lock.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/log/bin-log.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/log/error-log.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/log/query-log.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/log/slow-query-log.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/multi-table-query/child-query.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/multi-table-query/in-connection.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/multi-table-query/out-connection.sql" dialect="MySQL" />
